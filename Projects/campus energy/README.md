@@ -1,4 +1,4 @@
-#Watt Wise
+# Watt Wise
 
 This is the frontend for the Campus Energy Zen application, a platform for monitoring and managing campus energy consumption.
 
